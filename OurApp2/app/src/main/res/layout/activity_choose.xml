@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/btn_5"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/btn_1"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_btn1"
+        android:text="人物"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        />
+
+</LinearLayout>
